@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <h2>Consulta de Alunos</h2>
+        <h2>Consulta de Alunos OD2</h2>
 
         <form method="POST">
             <div class="form-row">
