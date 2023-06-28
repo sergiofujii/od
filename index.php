@@ -120,6 +120,7 @@
                             </thead>
                             <tbody>";
 
+                            // Tirando N/A
                             while ($row = $result->fetch_assoc()) {
                                 echo "<tr>
                                     <td>" . (isset($row['aluno_id']) ? $row['aluno_id'] : '-') . "</td>
